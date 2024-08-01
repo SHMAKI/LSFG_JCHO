@@ -1,0 +1,25 @@
+# OS generated file
+.DS_Store
+
+# Rstudio files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.RDataTmp
+*.Rproj
+
+# python cache
+__pycache__/
+
+# jupyter files
+.virtual_documents
+.ipynb_checkpoints
+
+# figs & old or not employed files
+fig
+data
+processed_data
+figure/
+not_employed
+out
