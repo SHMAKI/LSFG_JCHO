@@ -1,0 +1,4 @@
+python_version == "3.8"
+
+lightgbm==3.3.5
+optuna==2.8.0
