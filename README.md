@@ -2,7 +2,7 @@
 
 This repository contains the source codes for the analysis and model construction used in the following paper (in submission): 
 
-* Shigeyuki Magi, Takahiro Maruyama, Seiji Takagi, Atsuhiko T Naito, Yuichi Hori. Machine Learning Analysis of Ocular Blood Flow for Estimating Vascular Age
+* [Shigeyuki Magi, Takahiro Maruyama, Seiji Takagi, Atsuhiko T Naito, Yuichi Hori. Machine Learning Analysis of Ocular Blood Flow for Estimating Vascular Age (preprint)](https://www.researchsquare.com/article/rs-4820846/v1)
 
 ## Overview
 
