@@ -1,12 +1,11 @@
 # LSFG_JCHO
 
-This repository contains the source codes for the analysis and model construction used in the following paper (in submission): 
+This repository contains the source codes for the analysis and model construction used in the following paper (currently under submission):
 
-* [Shigeyuki Magi, Takahiro Maruyama, Seiji Takagi, Atsuhiko T Naito, Yuichi Hori. Machine Learning Analysis of Ocular Blood Flow for Estimating Vascular Age (preprint)](https://www.researchsquare.com/article/rs-4820846/v1)
+**Shigeyuki Magi, Takahiro Maruyama, Seiji Takagi, Atsuhiko T Naito, Yuichi Hori.** *Laser Speckle Flowgraphy-Based Machine Learning Reveals the Contribution of Hepatic Steatosis and Metabolic Syndrome to Accelerated Microvascular Aging*
+
+[Preprint (not the latest version)](https://www.researchsquare.com/article/rs-4820846/v1)
 
 ## Overview
 
-In this study, we developed machine learning models to predict chronological age using time-series blood flow images of ocular vessels captured through laser speckle flowgraphy (LSFG). The inclusion of features generated through automated feature engineering enhanced the model’s accuracy compared to predefined features. The findings indicate that physiological alterations in vasculature are likely to be induced even at the prehypertension/prediabetes stage, which are reflected in changes in retinal blood flow patterns.
-
-## Contents
-We are now updating this repository.
+In this study, we developed a machine learning-based approach that integrates automated feature engineering with laser speckle flowgraphy (LSFG) data to assess microvascular aging. This approach identified metabolic syndrome and metabolic dysfunction-associated fatty liver disease (MAFLD) as potential contributors to accelerated microvascular aging. Our findings suggest that MAFLD may play a role in microvascular aging and highlight the need for further prospective studies to elucidate causal relationships and optimize personalized strategies for improving vascular health.
