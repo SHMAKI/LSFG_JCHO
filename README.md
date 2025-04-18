@@ -2,9 +2,9 @@
 
 This repository contains the source codes for the analysis and model construction used in the following paper (currently under submission):
 
-**Shigeyuki Magi, Takahiro Maruyama, Seiji Takagi, Atsuhiko T Naito, Yuichi Hori.** *Laser Speckle Flowgraphy-Based Machine Learning Reveals the Contribution of Hepatic Steatosis and Metabolic Syndrome to Accelerated Microvascular Aging*
+**Shigeyuki Magi, Takahiro Maruyama, Seiji Takagi, Atsuhiko T Naito, Yuichi Hori.** *Laser Speckle Flowgraphy-Based Machine Learning Model Reveals Metabolic Factors Involved in Accelerated Microvascular Aging*
 
-[Preprint (not the latest version)](https://www.researchsquare.com/article/rs-4820846/v1)
+[Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5217965)
 
 ## Overview
 
