@@ -2,10 +2,9 @@
 
 This repository contains the source codes for the analysis and model construction used in the following paper (currently under submission):
 
-**Shigeyuki Magi, Takahiro Maruyama, Seiji Takagi, Atsuhiko T Naito, Yuichi Hori.** *Laser Speckle Flowgraphy-Based Machine Learning Model Reveals Metabolic Factors Involved in Accelerated Microvascular Aging*
+**Shigeyuki Magi, Takahiro Maruyama, Seiji Takagi, Atsuhiko T Naito, Yuichi Hori.** *Machine learning assessment of retinal blood flow links metabolic dysfunction and accelerated microvascular aging*
 
 **The analysis code used in the current manuscript will be pushed after final acceptance.**
-
 
 [Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5217965)
 
