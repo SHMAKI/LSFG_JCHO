@@ -2,9 +2,7 @@
 
 This repository contains the source codes for the analysis and model construction used in the following paper:
 
-**Shigeyuki Magi, Takahiro Maruyama, Seiji Takagi, Atsuhiko T Naito, Yuichi Hori.** *Machine learning assessment of retinal blood flow links metabolic dysfunction and accelerated microvascular aging, Scientific Reports*, in press.
-
-[Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5217965)
+**Shigeyuki Magi, Takahiro Maruyama, Seiji Takagi, Atsuhiko T Naito, Yuichi Hori.** *Machine learning assessment of retinal blood flow links metabolic dysfunction and accelerated microvascular aging, Scientific Reports*, (2026). [https://doi.org/10.1038/s41598-025-32776-3](https://rdcu.be/eYLcZ)
 
 ## Overview
 
